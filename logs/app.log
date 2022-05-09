@@ -1,0 +1,3 @@
+{"level":"info","method":"GET","date":"2022-05-09T15:10:06.771Z","remote-addr":"::ffff:127.0.0.1","url":"/","user-agent":"Thunder Client (https://www.thunderclient.com)","message":"Request received","trace-id":"0969af6c-b3de-426d-925c-4a2874af130a"}
+{"level":"info","message":"a: 1 and b: 2","trace-id":"0969af6c-b3de-426d-925c-4a2874af130a"}
+{"level":"info","date":"2022-05-09T15:10:06.780Z","url":"/","status":"200","response-time":"6.484 ms","message":"Request completed","trace-id":"0969af6c-b3de-426d-925c-4a2874af130a"}
